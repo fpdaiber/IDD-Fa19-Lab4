@@ -16,7 +16,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **a. Which color wires correspond to power, ground and signal?**
 
-Red corresponds to power, orange to signal an brown to ground.
+Red corresponds to power, orange to signal and brown to ground.
 
 ### Part 2. Connect the Servo to your Arduino
 

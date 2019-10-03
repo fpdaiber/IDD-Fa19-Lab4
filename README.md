@@ -49,7 +49,7 @@ Here's a video of it:
 [Puppet Code](https://github.com/fpdaiber/IDD-Fa19-Lab4/blob/master/Sweep_custom.ino)
 
 A picture of my Paper Puppet: 
-![alt text](https://github.com/fpdaiber/IDD-Fa19-Lab4/blob/master/IMG_2503.jpg)
+![alt text](https://github.com/fpdaiber/IDD-Fa19-Lab4/blob/master/IMG_2506.jpg)
 
 [Paper Puppet in Action](https://drive.google.com/open?id=1mFsz0HgUdKCluEyXN6JpKxVwe3Brqm07)
 
@@ -63,7 +63,7 @@ I laser cut a picture of myself and used by beer bottle from Lab 5 to create a O
 [My custom code ](https://github.com/fpdaiber/IDD-Fa19-Lab4/blob/master/Sweep_puppet_custom.ino)
 
 A picture of my final design: 
-![alt text](https://github.com/fpdaiber/IDD-Fa19-Lab4/blob/master/IMG_2503.jpg)
+![alt text](https://github.com/fpdaiber/IDD-Fa19-Lab4/blob/master/IMG_2510.jpg)
 
 [My Design in Action](https://drive.google.com/open?id=1NVv9HleZR6zF_Bxx6z5VY4Yyxx3AAPdK)
  
